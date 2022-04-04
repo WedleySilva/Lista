@@ -1,6 +1,29 @@
 .container {
     background-color: #47000A;
+    color: aliceblue;
+    margin: 30px;
+    border-radius: 20px;
+    width: 320px;
+    padding: 10px;
     
+}
 
+h2 {
+    text-align: center;
+    color: aliceblue;
 
 }
+
+.removed {
+    list-style: none;
+}
+
+.coluna-50 {
+    width: 50%;
+ 
+}
+
+.linha{
+    display: flex;
+    flex-flow: row wrap;
+    }
