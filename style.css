@@ -1,16 +1,15 @@
 .container {
     background-color: #47000A;
-    color: aliceblue;
+    color: #BCBCD0;
     margin: 30px;
     border-radius: 20px;
     width: 320px;
     padding: 10px;
-    
 }
 
 h2 {
     text-align: center;
-    color: aliceblue;
+    color: #BCBCD0;
 
 }
 
